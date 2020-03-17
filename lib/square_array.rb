@@ -5,7 +5,7 @@ def square_array(array)
   
   while counter < array.length do
   new << array[counter] ** 2
-  #
+  # this shovel adds a new element two our blank arrray (new)
   puts new
   counter += 1
 end
