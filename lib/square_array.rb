@@ -9,4 +9,5 @@ def square_array(array)
   puts new
   counter += 1
 end
+
 end
